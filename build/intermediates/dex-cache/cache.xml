@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bbb8810cf79385cc4fa0985c06305bbbe2264b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_c24b199a3bdde8aedcaf069f16297c3e6126fc23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_fa67cb5213e31de1fb04e88c7a1829c848a23152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6a4474fbc0b43d65d1402119420859ea4a6265b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashwin Pilgaonkar\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.0.9\4244e2998018aa492389e8e30a77b7987959608e\MPAndroidChart-v2.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.0.9_783f1e6158d644439666deeecc3f934193e06a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashwin Pilgaonkar\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_5c0223bb0123bb52763021bc3ebbb19fc2df04a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_7d027d7ae5f8acc1498e611502fb17b43078c7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta4_ee6dd5f71e9f65ec359774cd89e4b5aab1bc0251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a3f29b5bfd82e887d371fca6c4c153109fea3c24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_433737e966f7dc8d28cffec5f8019098f7fbc1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.nononsenseapps\filepicker\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="070e55a51770a575df114689b7dbe44c7175e34e">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.nononsenseapps-filepicker-3.1.0_5832dffc0a6c423ee1fab14201e5257850e08a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\de.codecrafters.tableview\tableview\2.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3c10380e38458681bfe5c96f5c970e14ca464d2">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\de.codecrafters.tableview-tableview-2.4.1_44ca001a88bfa7b0899e4f3d6a5447bbdd9f1535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\libs\cwac-merge-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="691bb4d040b94972d45ab979d74643c682baffcc">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\cwac-merge-1.1.1_d798734177b5c77dacd0f62ca1567e661142e0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_b41c0d0583686b6e02de329f0a9f6626c2eb1147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_d98c15f66ed542d261d9c1baccdb5828283609f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_cf50cbd827fa38a2706d121c9f8d8283470e8e3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_3958793f12068eb68ed561661065c561c4fca12a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ashwin Pilgaonkar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_bcdad44ca61edbeec92e741aa293452f69676a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1ea0c943ea01ea2c7a2b4fedd0b4a9fc9f88c240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_dd08656a64b7568f6822b20f679d495cfdbef1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_a33063768b96b064a83246170a427c817c17f244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_b9d624408cdffeb2e87d63ad360124717a95dd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_b49c65a6266c87fe3c23e6be58c874808c18ae04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BusinessStats\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\BusinessStats\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_ec6dea0025dbe7928308206db1bcf57e840d6db8.jar" />
+    </item>
+
+</items>

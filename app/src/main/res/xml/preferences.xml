@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Auto Email"
+        android:key="personal_category">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:title="Enable"
+            android:summary="Enable Auto Email feature"
+            android:key="EmailSwitch" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:title="Remind me"
+            android:summary="Show a reminder before sending email if app is not opened"
+            android:key="reminderCheckbox" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

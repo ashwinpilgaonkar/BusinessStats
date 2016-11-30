@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="project.businessstats.UI.MainActivity" >
+
+    <item android:id="@+id/menu_action_about"
+        android:title="@string/action_about" />
+
+    <item android:id="@+id/menu_action_settings"
+        android:title="@string/action_settings" />
+</menu>

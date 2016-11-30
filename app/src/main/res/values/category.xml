@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Country</item>
+        <item>Gender</item>
+        <item>Agent</item>
+        <item>Tour Type</item>
+        <item>Age Range</item>
+    </string-array>
+</resources>
