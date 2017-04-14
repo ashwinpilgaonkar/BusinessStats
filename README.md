@@ -1,6 +1,6 @@
 # BusinessStats
 
-An Android app created as part of my CS302 Software Engineering Course Project.
+An Android app created as part of CS302 Software Engineering Course Project.
 
 Link to docs- https://github.com/NIIT-Software-Engineering/Akash-Ashwin-Pilgaonkar-Jai-Ayush-Amit
 
