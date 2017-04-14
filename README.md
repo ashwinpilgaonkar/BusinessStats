@@ -1,5 +1,4 @@
 # BusinessStats
-
 An Android app created as part of CS302 Software Engineering Course Project.
 
 Link to docs- https://github.com/NIIT-Software-Engineering/Akash-Ashwin-Pilgaonkar-Jai-Ayush-Amit
@@ -18,9 +17,10 @@ It is a business management application for a mock tours and travels company whi
 * Press the **Display** button to view the results
 
 ## SDK Version
-`minSdkVersion 21
-targetSdkVersion 23`
-
+```
+minSdkVersion 21
+targetSdkVersion 23
+```
 ## Libraries Used
 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
