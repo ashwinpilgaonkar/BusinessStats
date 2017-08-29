@@ -1,11 +1,11 @@
 # BusinessStats
-An Android app created as part of CS302 Software Engineering Course Project.
-
+<strong>CS302 Software Engineering Project</strong><br>
+An Android application that displays statistical data of a mock travel agency in the form of a table and graphs.
 Link to docs- https://github.com/NIIT-Software-Engineering/Akash-Ashwin-Pilgaonkar-Jai-Ayush-Amit
 
 ## Features
 It is a business management application for a mock tours and travels company which-
-* Reads statistical data of the business from a remote SQL database
+* Reads statistical data of the business from an SQLite database
 * Displays it in the form of a graph or a table
 * Sends an auto generated Email every year to the travel agent having done the most number of bookings
 * Import Multiple *.xls files containing flight schedules of different airlines and standardize them into a single file (Partially implemented)
