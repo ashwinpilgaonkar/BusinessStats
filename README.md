@@ -1,6 +1,6 @@
 # BusinessStats
 <strong>CS302 Software Engineering Project</strong><br>
-An Android application that displays statistical data of a mock travel agency in the form of a table and graphs.
+An Android application that displays statistical data of a mock travel agency in the form of a table and graphs.<br>
 Link to docs- https://github.com/NIIT-Software-Engineering/Akash-Ashwin-Pilgaonkar-Jai-Ayush-Amit
 
 ## Features
