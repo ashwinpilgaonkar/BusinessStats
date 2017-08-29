@@ -11,7 +11,7 @@ It is a business management application for a mock tours and travels company whi
 * Import Multiple *.xls files containing flight schedules of different airlines and standardize them into a single file (Partially implemented)
 
 ## Usage
-* Click on the **Process** button to get data from the remote database and store it in a local SQLite database
+* Click on the **Process** button to fetch data from the database according to the sort criteria
 * Select the **year range** and **category** to sort records by
 * Choose either the **Table** or **Graph** option to view the records
 * Press the **Display** button to view the results
